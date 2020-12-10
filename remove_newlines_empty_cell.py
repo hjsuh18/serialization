@@ -7,7 +7,12 @@
 
 # COMMAND ----------
 
-3 + 3
+below are two empty cells. First has two newlines between dividers, second has one newline between dividers
+
+# COMMAND ----------
+
+
+# COMMAND ----------
 
 # COMMAND ----------
 
@@ -15,18 +20,7 @@
 
 # COMMAND ----------
 
-# MAGIC %md
-# MAGIC hello world
-
-# COMMAND ----------
-
-# MAGIC %sql
-# MAGIC SELECT * FROM hello_this_is_sql_cell
-
-# COMMAND ----------
-
-# MAGIC %run
-# MAGIC hello this is %run cell
+5 + 5
 
 # COMMAND ----------
 
