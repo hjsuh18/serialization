@@ -7,7 +7,11 @@
 
 # COMMAND ----------
 
-3 + 3
+below is an empty cell
+
+# COMMAND ----------
+
+
 
 # COMMAND ----------
 
