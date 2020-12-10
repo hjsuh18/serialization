@@ -11,3 +11,11 @@
 
 # COMMAND ----------
 
+1 + 1
+
+# COMMAND ----------
+
+print("hello world")
+
+# COMMAND ----------
+
