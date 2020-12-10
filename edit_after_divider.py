@@ -1,7 +1,7 @@
 # Databricks notebook source
 1 + 1
 
-# COMMAND ----------
+# COMMAND edit after divider
 
 2 + 2
 
