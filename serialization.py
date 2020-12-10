@@ -17,6 +17,3 @@
 
 print("hello world")
 
-
-
-# COMMAND ----------
