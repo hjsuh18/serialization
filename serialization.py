@@ -19,5 +19,5 @@ print("hello world")
 
 # COMMAND ----------
 
-# MAGIC %sql
+# MAGIC %sql 
 # MAGIC SELECT * from tree;
