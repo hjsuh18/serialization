@@ -8,6 +8,7 @@ print("hello world")
 # COMMAND ----------
 
 2 + 2
+
 # COMMAND ----------
 
 3 + 3

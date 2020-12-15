@@ -15,7 +15,7 @@
 
 # COMMAND ----------
 
-# MAGIC%md
+# MAGIC %md
 # MAGIC hello world
 
 # COMMAND ----------

@@ -12,5 +12,3 @@ print("hello world")
 # COMMAND ----------
 
 3 + 3
-
-# COMMAND ----------

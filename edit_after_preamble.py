@@ -1,4 +1,4 @@
-# Databricks notebook source edit after preamble
+# Databricks notebook source
 1 + 1
 
 # COMMAND ----------
