@@ -5,7 +5,10 @@ print("hi this is a notebook that contains bugs reported in es-617047")
 
 # MAGIC %md
 # MAGIC # Hi this is some markdown
+# MAGIC 
 # MAGIC This is text
+# MAGIC 
+# MAGIC This is more text
 
 # COMMAND ----------
 
